@@ -1,0 +1,410 @@
+{
+    "latestGames": {
+      "data": {
+        "items": [
+          {
+            "description": "Super Mario Odyssey 2 es una experiencia única en la que Mario se embarca en una nueva aventura en el Reino Champiñón. Con gráficos vibrantes y niveles desafiantes, el juego promete horas de diversión en la consola Nintendo Switch.",
+            "slug": "super-mario-odyssey-2",
+            "releaseDate": "2024-03-15",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-624965-52.jpg",
+            "criticScoreSummary": { "score": 92 },
+            "title": "Super Mario Odyssey 2"
+          },
+          {
+            "description": "Metroid Prime 4 invita a los jugadores a explorar planetas enigmáticos y descubrir secretos oscuros en cada rincón del universo. Con un ambiente inmersivo y desafíos innovadores, cada misión es una aventura que reta tus habilidades.",
+            "slug": "metroid-prime-4",
+            "releaseDate": "2024-04-20",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-14609-13.jpg",
+            "criticScoreSummary": { "score": 88 },
+            "title": "Metroid Prime 4"
+          },
+          {
+            "description": "Animal Crossing: New Horizons 2 te invita a volver a tu isla con una experiencia renovada. Con nuevos personajes, actividades y un entorno interactivo, cada día trae sorpresas y momentos de relajación para disfrutar en cualquier momento.",
+            "slug": "animal-crossing-new-horizons-2",
+            "releaseDate": "2024-05-10",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-716892-52.jpg",
+            "criticScoreSummary": { "score": 85 },
+            "title": "Animal Crossing: New Horizons 2"
+          },
+          {
+            "description": "Splatoon 3 ofrece más acción y combates llenos de tinta en un mundo colorido y vibrante. La estrategia y velocidad se combinan para crear enfrentamientos emocionantes que te mantendrán pegado a la pantalla de tu Nintendo Switch.",
+            "slug": "splatoon-3",
+            "releaseDate": "2024-06-05",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-563872-52.jpg",
+            "criticScoreSummary": { "score": 80 },
+            "title": "Splatoon 3"
+          },
+          {
+            "description": "Luigi’s Mansion: Dark Moon 2 trae de vuelta a Luigi en una aventura espeluznante y divertida. Explora mansiones encantadas, resuelve puzzles ingeniosos y enfrenta fantasmas traviesos en una experiencia única y llena de humor.",
+            "slug": "luigis-mansion-dark-moon-2",
+            "releaseDate": "2024-07-01",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-671486-52.jpg",
+            "criticScoreSummary": { "score": 83 },
+            "title": "Luigi’s Mansion: Dark Moon 2"
+          },
+          {
+            "description": "Pokémon Scarlet & Violet 2 expande la experiencia de la saga con nuevos Pokémon y mecánicas mejoradas. Explora un mundo vibrante y lleno de aventuras que te mantendrá enganchado durante horas en tu Nintendo Switch.",
+            "slug": "pokemon-scarlet-violet-2",
+            "releaseDate": "2024-08-15",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-302485-52.jpg",
+            "criticScoreSummary": { "score": 90 },
+            "title": "Pokémon Scarlet & Violet 2"
+          },
+          {
+            "description": "Kirby’s Epic Yarn 2 ofrece una aventura llena de colores y texturas únicas. Con una combinación de plataformas y rompecabezas en un universo visualmente encantador, este juego cautiva tanto a jóvenes como a adultos.",
+            "slug": "kirby-epic-yarn-2",
+            "releaseDate": "2024-09-10",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-818820-52.jpg",
+            "criticScoreSummary": { "score": 87 },
+            "title": "Kirby’s Epic Yarn 2"
+          },
+          {
+            "description": "Fire Emblem: Radiant Dawn 2 presenta estrategia y batallas épicas en un universo lleno de intriga y emoción. Cada decisión en el campo de batalla influye en el destino del reino, ofreciendo una experiencia profunda y envolvente.",
+            "slug": "fire-emblem-radiant-dawn-2",
+            "releaseDate": "2024-10-05",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-662627-52.jpg",
+            "criticScoreSummary": { "score": 89 },
+            "title": "Fire Emblem: Radiant Dawn 2"
+          },
+          {
+            "description": "Xenoblade Chronicles 4 inaugura una nueva saga de aventuras en un vasto mundo de ciencia ficción. Embárcate en un viaje intergaláctico lleno de misterios, batallas épicas y descubrimientos sorprendentes que redefinen el género RPG.",
+            "slug": "xenoblade-chronicles-4",
+            "releaseDate": "2024-11-20",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-105257-52.jpg",
+            "criticScoreSummary": { "score": 91 },
+            "title": "Xenoblade Chronicles 4"
+          },
+          {
+            "description": "Super Smash Bros Ultimate 2 reúne a tus personajes favoritos en intensos combates multijugador. Con mejoras en la jugabilidad y nuevos modos de juego, cada batalla se convierte en un espectáculo lleno de adrenalina y estrategia.",
+            "slug": "super-smash-bros-ultimate-2",
+            "releaseDate": "2024-12-01",
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-675083-52.jpg",
+            "criticScoreSummary": { "score": 93 },
+            "title": "Super Smash Bros Ultimate 2"
+          }
+        ]
+      }
+    },
+    "gameDetails": {
+      "super-mario-odyssey-2": {
+        "components": [
+          {
+            "title": "Super Mario Odyssey 2",
+            "description": "En Super Mario Odyssey 2, Mario regresa para explorar mundos coloridos y sorprendentes. La experiencia combina desafíos innovadores con niveles diseñados para entretener y sorprender a jugadores de todas las edades.",
+            "criticScoreSummary": { "score": 92 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-624965-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Una experiencia mágica y divertida.",
+                  "score": 95,
+                  "date": "2024-03-20",
+                  "publicationName": "GameZone",
+                  "author": "Critic A"
+                },
+                {
+                  "quote": "Mario nunca decepciona.",
+                  "score": 93,
+                  "date": "2024-03-22",
+                  "publicationName": "SwitchReview",
+                  "author": "Critic B"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "metroid-prime-4": {
+        "components": [
+          {
+            "title": "Metroid Prime 4",
+            "description": "Metroid Prime 4 lleva a los jugadores a un viaje a través de planetas enigmáticos, llenos de secretos oscuros. Cada misión te reta a descubrir misterios y enfrentar desafíos inusuales en un universo lleno de intriga.",
+            "criticScoreSummary": { "score": 88 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-14609-13.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Un juego atmosférico y lleno de intriga.",
+                  "score": 90,
+                  "date": "2024-04-25",
+                  "publicationName": "GameCritic",
+                  "author": "Critic C"
+                },
+                {
+                  "quote": "Metroid Prime 4 supera expectativas.",
+                  "score": 88,
+                  "date": "2024-04-27",
+                  "publicationName": "NextGen",
+                  "author": "Critic D"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "animal-crossing-new-horizons-2": {
+        "components": [
+          {
+            "title": "Animal Crossing: New Horizons 2",
+            "description": "Animal Crossing: New Horizons 2 te invita a volver a tu isla con una experiencia renovada. Disfruta de nuevos personajes, actividades interactivas y un entorno vibrante que ofrece momentos de relajación y diversión.",
+            "criticScoreSummary": { "score": 85 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-716892-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Una experiencia relajante y encantadora que te transporta a un paraíso insular.",
+                  "score": 87,
+                  "date": "2024-05-15",
+                  "publicationName": "IslandNews",
+                  "author": "Critic E"
+                },
+                {
+                  "quote": "Perfecto para desconectar y disfrutar de momentos de paz en un entorno maravilloso.",
+                  "score": 85,
+                  "date": "2024-05-18",
+                  "publicationName": "GamingDaily",
+                  "author": "Critic F"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "splatoon-3": {
+        "components": [
+          {
+            "title": "Splatoon 3",
+            "description": "Splatoon 3 ofrece más acción y combates llenos de tinta en un mundo vibrante y colorido. La combinación de estrategia y velocidad crea enfrentamientos emocionantes en cada partida.",
+            "criticScoreSummary": { "score": 80 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-563872-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Una explosión de color y diversión que te mantendrá en el borde de tu asiento.",
+                  "score": 82,
+                  "date": "2024-06-10",
+                  "publicationName": "InkReview",
+                  "author": "Critic G"
+                },
+                {
+                  "quote": "Innovador y fresco, un título imprescindible para los fanáticos del género.",
+                  "score": 80,
+                  "date": "2024-06-12",
+                  "publicationName": "SwitchInsider",
+                  "author": "Critic H"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "luigis-mansion-dark-moon-2": {
+        "components": [
+          {
+            "title": "Luigi’s Mansion: Dark Moon 2",
+            "description": "Luigi’s Mansion: Dark Moon 2 trae de vuelta a Luigi en una aventura espeluznante y divertida. Explora mansiones encantadas, resuelve puzzles ingeniosos y enfrenta fantasmas traviesos en una narrativa única que combina misterio y humor.",
+            "criticScoreSummary": { "score": 83 },
+            "image": ""
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Una aventura espeluznante pero llena de humor que equilibra perfectamente el miedo y la diversión.",
+                  "score": 85,
+                  "date": "2024-07-05",
+                  "publicationName": "GhostlyGames",
+                  "author": "Critic I"
+                },
+                {
+                  "quote": "Luigi demuestra que puede ser tan valiente como su hermano, ofreciendo una experiencia divertida y ligeramente aterradora.",
+                  "score": 83,
+                  "date": "2024-07-07",
+                  "publicationName": "GameReview",
+                  "author": "Critic J"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "pokemon-scarlet-violet-2": {
+        "components": [
+          {
+            "title": "Pokémon Scarlet & Violet 2",
+            "description": "Pokémon Scarlet & Violet 2 expande la experiencia de la saga con nuevos Pokémon y mecánicas mejoradas. Sumérgete en un mundo abierto vibrante donde cada rincón ofrece descubrimientos y aventuras emocionantes para jugadores de todas las edades.",
+            "criticScoreSummary": { "score": 90 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-302485-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Una evolución impresionante que amplía la experiencia de juego con nuevos desafíos y sorpresas.",
+                  "score": 92,
+                  "date": "2024-08-20",
+                  "publicationName": "PokeReview",
+                  "author": "Critic K"
+                },
+                {
+                  "quote": "El juego ofrece una jugabilidad refinada y un mundo abierto vibrante que cautiva desde el primer momento.",
+                  "score": 90,
+                  "date": "2024-08-22",
+                  "publicationName": "GameSpot",
+                  "author": "Critic L"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "kirby-epic-yarn-2": {
+        "components": [
+          {
+            "title": "Kirby’s Epic Yarn 2",
+            "description": "Kirby’s Epic Yarn 2 ofrece una aventura llena de colores y texturas únicas. Este juego combina plataformas y rompecabezas en un universo visualmente encantador que resulta perfecto para jugadores que buscan una experiencia artística y divertida.",
+            "criticScoreSummary": { "score": 87 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-818820-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Un deleite visual y creativo que destaca por su originalidad y encanto.",
+                  "score": 89,
+                  "date": "2024-09-15",
+                  "publicationName": "YarnWorld",
+                  "author": "Critic M"
+                },
+                {
+                  "quote": "Kirby ofrece una experiencia lúdica llena de sorpresas y un diseño visual impecable.",
+                  "score": 87,
+                  "date": "2024-09-18",
+                  "publicationName": "GameInsider",
+                  "author": "Critic N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "fire-emblem-radiant-dawn-2": {
+        "components": [
+          {
+            "title": "Fire Emblem: Radiant Dawn 2",
+            "description": "Fire Emblem: Radiant Dawn 2 presenta estrategia y batallas épicas en un universo lleno de intriga y emoción. Sumérgete en un mundo de intrigas políticas y conflictos militares, donde cada decisión cambia el destino del reino en una experiencia profunda y envolvente.",
+            "criticScoreSummary": { "score": 89 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-662627-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Una secuela que eleva la estrategia a otro nivel, ofreciendo combates intensos y tácticas innovadoras.",
+                  "score": 90,
+                  "date": "2024-10-10",
+                  "publicationName": "EmblemReview",
+                  "author": "Critic O"
+                },
+                {
+                  "quote": "Batallas épicas y una narrativa cautivadora que logran enganchar desde el primer minuto.",
+                  "score": 89,
+                  "date": "2024-10-12",
+                  "publicationName": "GameCritique",
+                  "author": "Critic P"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "xenoblade-chronicles-4": {
+        "components": [
+          {
+            "title": "Xenoblade Chronicles 4",
+            "description": "Xenoblade Chronicles 4 inaugura una nueva saga de aventuras en un vasto mundo de ciencia ficción. Emprende un viaje intergaláctico lleno de misterios, batallas épicas y sorprendentes descubrimientos que redefinen el género RPG.",
+            "criticScoreSummary": { "score": 91 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-105257-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "Una epopeya futurista impresionante que redefine el género.",
+                  "score": 93,
+                  "date": "2024-11-25",
+                  "publicationName": "SciFiGames",
+                  "author": "Critic Q"
+                },
+                {
+                  "quote": "Una aventura que combina narrativa profunda con acción intensa y visuales asombrosos.",
+                  "score": 91,
+                  "date": "2024-11-28",
+                  "publicationName": "NextGen",
+                  "author": "Critic R"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "super-smash-bros-ultimate-2": {
+        "components": [
+          {
+            "title": "Super Smash Bros Ultimate 2",
+            "description": "Super Smash Bros Ultimate 2 reúne a tus personajes favoritos en intensos combates multijugador. Sumérgete en batallas llenas de adrenalina con modos de juego innovadores que hacen de cada enfrentamiento un espectáculo inolvidable.",
+            "criticScoreSummary": { "score": 93 },
+            "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-675083-52.jpg"
+          },
+          {},
+          {},
+          {
+            "data": {
+              "items": [
+                {
+                  "quote": "El combate multijugador nunca fue tan divertido, con una jugabilidad fluida y dinámicas adaptables a cada enfrentamiento.",
+                  "score": 94,
+                  "date": "2024-12-05",
+                  "publicationName": "SmashReview",
+                  "author": "Critic S"
+                },
+                {
+                  "quote": "Una evolución épica de la saga, que introduce nuevas mecánicas y un diseño visual cautivador.",
+                  "score": 93,
+                  "date": "2024-12-07",
+                  "publicationName": "GameSpot",
+                  "author": "Critic T"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }  
