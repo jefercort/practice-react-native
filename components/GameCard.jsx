@@ -1,4 +1,5 @@
-import { StyleSheet, Text, View, Image } from "react-native";
+import { useEffect, useRef } from "react";
+import { StyleSheet, Text, View, Image, Animated } from "react-native";
 
 export function GameCard({ game }) {
     return (
@@ -9,6 +10,27 @@ export function GameCard({ game }) {
             <Text style={styles.description}>{game.description}</Text>
         </View>
     );
+}
+// Animated es una clase que nos va a permitir hacer animaciones en react native
+export function AnimatedGameCard({ game, index }) {
+    const opacity = useRef(new Animated.Value(0)).current;
+
+    useEffect(() => {
+        Animated.timing(opacity, {
+            toValue: 1,
+            duration: 500,
+            delay: 100 * index,
+            // este su usa para temas de rendimiento
+            useNativeDriver: true,
+        }).start();
+    }, [opacity, index]);
+
+    return (
+        <Animated.View style={{ opacity }}>
+            <GameCard game={game} />
+            {/* // Aquí se le pasa el estilo al componente */}
+        </Animated.View>
+    )
 }
 
 const styles = StyleSheet.create({
