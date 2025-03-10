@@ -31,7 +31,7 @@
             "slug": "splatoon-3",
             "releaseDate": "2024-06-05",
             "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-563872-52.jpg",
-            "criticScoreSummary": { "score": 80 },
+            "criticScoreSummary": { "score": 45 },
             "title": "Splatoon 3"
           },
           {
@@ -79,7 +79,7 @@
             "slug": "super-smash-bros-ultimate-2",
             "releaseDate": "2024-12-01",
             "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-675083-52.jpg",
-            "criticScoreSummary": { "score": 93 },
+            "criticScoreSummary": { "score": 23 },
             "title": "Super Smash Bros Ultimate 2"
           }
         ]
@@ -187,7 +187,7 @@
           {
             "title": "Splatoon 3",
             "description": "Splatoon 3 ofrece más acción y combates llenos de tinta en un mundo vibrante y colorido. La combinación de estrategia y velocidad crea enfrentamientos emocionantes en cada partida.",
-            "criticScoreSummary": { "score": 80 },
+            "criticScoreSummary": { "score": 45 },
             "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-563872-52.jpg"
           },
           {},
@@ -379,7 +379,7 @@
           {
             "title": "Super Smash Bros Ultimate 2",
             "description": "Super Smash Bros Ultimate 2 reúne a tus personajes favoritos en intensos combates multijugador. Sumérgete en batallas llenas de adrenalina con modos de juego innovadores que hacen de cada enfrentamiento un espectáculo inolvidable.",
-            "criticScoreSummary": { "score": 93 },
+            "criticScoreSummary": { "score": 23 },
             "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-675083-52.jpg"
           },
           {},

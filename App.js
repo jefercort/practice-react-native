@@ -2,6 +2,7 @@ import { StatusBar } from "expo-status-bar";
 import { StyleSheet, View } from "react-native";
 import { Main } from "./components/Main";
 import { SafeAreaProvider } from "react-native-safe-area-context";
+import "./index.css";
 // import icon1 from "./assets/icon.png";
 
 // para importar imagenes se puede realizar de la siguiente manera, yo prefiero usar import
