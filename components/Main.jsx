@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
-import { View, ScrollView, ActivityIndicator, FlatList } from "react-native";
+import { Link } from "expo-router";
+import { View, ActivityIndicator, FlatList, Pressable } from "react-native";
 import { getLatestGames } from "../lib/metacritic";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { AnimatedGameCard } from "./GameCard";
 import { Logo } from "./Logo";
+import { HomeIcon } from "./Icons";
 
 export function Main() {
     const [games, setGames] = useState([]);
@@ -20,6 +22,11 @@ export function Main() {
             <View style={{ alignItems: "center", marginVertical: 20 }}>
                 <Logo />
             </View>
+            <Link asChild href="/about">
+                <Pressable>
+                    <HomeIcon />
+                </Pressable>
+            </Link>
             {
                 games.length === 0 ? (
                     <ActivityIndicator size="large" color="#fff" />
@@ -27,7 +34,9 @@ export function Main() {
                     <FlatList
                         data={games}
                         keyExtractor={(game) => game.slug}
-                        renderItem={({ item, index }) => <AnimatedGameCard game={item} index={index} />}
+                        renderItem={({ item, index }) => (
+                            <AnimatedGameCard game={item} index={index} />
+                    )}
                     />
                     // El FlatList no recibe el array de juegos por ello vamos a usarlo de manera diferente
                     // {games.map((game) => (
