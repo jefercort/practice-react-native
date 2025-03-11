@@ -5,7 +5,7 @@ import { getLatestGames } from "../lib/metacritic";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { AnimatedGameCard } from "./GameCard";
 import { Logo } from "./Logo";
-import { HomeIcon } from "./Icons";
+import { InfoIcon } from "./Icons";
 
 export function Main() {
     const [games, setGames] = useState([]);
@@ -24,7 +24,7 @@ export function Main() {
             </View>
             <Link asChild href="/about">
                 <Pressable>
-                    <HomeIcon />
+                    <InfoIcon />
                 </Pressable>
             </Link>
             {

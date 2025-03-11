@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
         borderRadius: 10,
     },
     title: {
-        fontSize: 20,
+        fontSize: 50,
         fontWeight: "bold",
         marginBottom: 10,
         color: "#fff",

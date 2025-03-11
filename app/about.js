@@ -1,15 +1,18 @@
 import { Link } from "expo-router";
 import { Pressable, Text } from "react-native";
 import { ScrollView } from "react-native";
-import { InfoIcon } from "../components/Icons";
+import { HomeIcon } from "../components/Icons";
+import { styled } from "nativewind";
 
 export default function About() {
+    const StyledPressable = styled(Pressable);
+
     return (
         <ScrollView className="mt-24">
             <Link asChild href="/about">
-                <Pressable className="text-blue-400 text-xl mt-24">
-                    <InfoIcon />
-                </Pressable>
+                <StyledPressable className="active:opacity-80">
+                    <HomeIcon />
+                </StyledPressable>
             </Link>
             <Text className="text-center">
                 Acerca del proyecto
