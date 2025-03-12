@@ -6,6 +6,7 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { AnimatedGameCard } from "./GameCard";
 import { Logo } from "./Logo";
 import { InfoIcon } from "./Icons";
+import { Screen } from "./Screen";
 
 export function Main() {
     const [games, setGames] = useState([]);
@@ -18,19 +19,7 @@ export function Main() {
     }, []);
 
     return (
-        <View 
-            className="bg-black"
-            style={{ paddingTop: insets.top, paddingBottom: insets.bottom }}>
-            <View className="flex-row justify-between items-center mb-4 mx-2">
-                <View>
-                    <Logo />
-                </View>
-            </View>
-            <Link asChild href="/about">
-                <Pressable>
-                    <InfoIcon />
-                </Pressable>
-            </Link>
+        <Screen>
             {
                 games.length === 0 ? (
                     <ActivityIndicator size="large" color="#fff" />
@@ -48,6 +37,6 @@ export function Main() {
                     // ))}
                 )
             }
-        </View>
+        </Screen>
     );
 }
