@@ -1,11 +1,8 @@
 import { useEffect, useState } from "react";
-import { Link } from "expo-router";
-import { View, ActivityIndicator, FlatList, Pressable } from "react-native";
+import { ActivityIndicator, FlatList } from "react-native";
 import { getLatestGames } from "../lib/metacritic";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { AnimatedGameCard } from "./GameCard";
-import { Logo } from "./Logo";
-import { InfoIcon } from "./Icons";
 import { Screen } from "./Screen";
 
 export function Main() {
