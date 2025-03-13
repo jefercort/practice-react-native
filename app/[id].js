@@ -35,18 +35,20 @@ export default function Details() {
                         <ActivityIndicator size="large" color="#fff" />
                     ) : (
                         <ScrollView>
-                            <Image 
-                                className="mb-4 rounded"
-                                source={{ uri: gameInfo.image }}
-                                style={{ width: 214, height: 294 }}
-                            />
-                            <Score score={gameInfo.score} maxScore={100} />
-                            <Text className="text-white text-center font-bold text-2xl">
-                                {gameInfo.title}
-                            </Text>
-                            <Text className="text-white/70 mt-4 text-left mb-5 text-base">
-                                {gameInfo.description}
-                            </Text>
+                            <View className="justify-center items-center text-center">
+                                <Image 
+                                    className="mb-4 rounded"
+                                    source={{ uri: gameInfo.image }}
+                                    style={{ width: 214, height: 294 }}
+                                />
+                                <Score score={gameInfo.score} maxScore={100} />
+                                <Text className="text-white text-center font-bold text-2xl">
+                                    {gameInfo.title}
+                                </Text>
+                                <Text className="text-white/70 mt-4 text-left mb-5 text-base">
+                                    {gameInfo.description}
+                                </Text>
+                            </View>
                         </ScrollView>
                     )
                 }
